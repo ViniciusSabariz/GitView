@@ -8,10 +8,16 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-navigation/native": "^5.7.3",
+    "@react-navigation/stack": "^5.9.0",
+    "axios": "^0.20.0",
     "expo": "~38.0.9",
+    "expo-font": "~8.2.1",
+    "expo-linking": "^1.0.3",
     "expo-splash-screen": "^0.5.0",
     "expo-status-bar": "^1.0.0",
     "expo-updates": "~0.2.10",
+    "lottie-react-native": "~2.6.1",
     "react": "~16.11.0",
     "react-dom": "~16.11.0",
     "react-native": "~0.62.2",
@@ -19,7 +25,9 @@
     "react-native-reanimated": "~1.9.0",
     "react-native-screens": "~2.9.0",
     "react-native-unimodules": "~0.10.1",
-    "react-native-web": "~0.11.7"
+    "react-native-vector-icons": "^7.0.0",
+    "react-native-web": "~0.11.7",
+    "styled-components": "^5.2.0"
   },
   "devDependencies": {
     "@babel/core": "~7.9.0",

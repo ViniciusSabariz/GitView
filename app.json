@@ -1,0 +1,12 @@
+{
+  "name": "gitview",
+  "displayName": "gitview",
+  "expo": {
+    "name": "gitview",
+    "slug": "gitview",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
